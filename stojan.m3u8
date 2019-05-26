@@ -282,5 +282,5 @@ http://ygk.info/stream/R6Z8G5TGYKYMLE/712/index.m3u8
 #EXTGRP:новостные
 http://ygk.info/stream/R6Z8G5TGYKYMLE/715/index.m3u8
 #EXTINF:0,Пятый Канал (+2)
-#EXTGRP:новостные
+#EXTGRP:новостные 
 http://ygk.info/stream/R6Z8G5TGYKYMLE/746/index.m3u8
