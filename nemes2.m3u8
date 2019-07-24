@@ -54,24 +54,21 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/740/index.m3u8
 #EXTINF:0,Мультимузыка
 #EXTGRP:детские
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/749/index.m3u8
-#EXTINF:0,Мультик HD
-#EXTGRP:детские
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/921/index.m3u8
 #EXTINF:0,Duck TV
 #EXTGRP:детские
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1031/index.m3u8
 #EXTINF:0,Da Vinci Kids
 #EXTGRP:детские
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1033/index.m3u8
-#EXTINF:0,Da Vinci Kids PL
-#EXTGRP:детские
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1034/index.m3u8
 #EXTINF:0,Малыш
 #EXTGRP:детские
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1041/index.m3u8
 #EXTINF:0,Nickelodeon EN
 #EXTGRP:детские
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1069/index.m3u8
+#EXTINF:0,Da Vinci Kids PL
+#EXTGRP:детские
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1034/index.m3u8
 #EXTINF:0,Радость моя
 #EXTGRP:детские
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/853/index.m3u8
@@ -154,9 +151,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/552/index.m3u8
 #EXTINF:0,Точка отрыва
 #EXTGRP:познавательные
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/159/index.m3u8
-#EXTINF:0,Надежда
-#EXTGRP:познавательные
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/656/index.m3u8
 #EXTINF:0,Первый образовательный
 #EXTGRP:познавательные
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/701/index.m3u8
@@ -193,15 +187,9 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/844/index.m3u8
 #EXTINF:0,Первый Метео
 #EXTGRP:познавательные
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/845/index.m3u8
-#EXTINF:0,Дикий
-#EXTGRP:познавательные
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/847/index.m3u8
 #EXTINF:0,Spike Russia
 #EXTGRP:познавательные
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/849/index.m3u8
-#EXTINF:0,TRiCK
-#EXTGRP:познавательные
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/858/index.m3u8
 #EXTINF:0,Поехали!
 #EXTGRP:познавательные
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/135/index.m3u8
@@ -227,9 +215,9 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/132/index.m3u8
 #EXTINF:0,TV 1000 Action
 #EXTGRP:кино
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/131/index.m3u8
-#EXTINF:0,TV 1000 Русское кино
+#EXTINF:0,SHOT TV
 #EXTGRP:кино
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/101/index.m3u8
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/526/index.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:кино
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1065/index.m3u8
@@ -275,9 +263,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/516/index.m3u8
 #EXTINF:0,Наше новое кино
 #EXTGRP:кино
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/517/index.m3u8
-#EXTINF:0,TV XXI
-#EXTGRP:кино
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/525/index.m3u8
 #EXTINF:0,КИНОКОМЕДИЯ
 #EXTGRP:кино
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/145/index.m3u8
@@ -311,6 +296,9 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/557/index.m3u8
 #EXTINF:0,2X2
 #EXTGRP:кино
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/702/index.m3u8
+#EXTINF:0,M-1 Global TV
+#EXTGRP:кино
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/843/index.m3u8
 #EXTINF:0,Русский бестселлер
 #EXTGRP:кино
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/905/index.m3u8
@@ -359,6 +347,9 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1066/index.m3u8
 #EXTINF:0,Мир Сериала
 #EXTGRP:кино
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/856/index.m3u8
+#EXTINF:0,TV 1000 Русское кино
+#EXTGRP:кино
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/101/index.m3u8
 
 #EXTINF:0,Інтер
 #EXTGRP:українські
@@ -396,12 +387,33 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/936/index.m3u8
 #EXTINF:0,2+2
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/995/index.m3u8
-#EXTINF:0,5 канал
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/945/index.m3u8
 #EXTINF:0,Brain TV
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/948/index.m3u8
+#EXTINF:0,BOLT
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/991/index.m3u8
+#EXTINF:0,Star Cinema
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/992/index.m3u8
+#EXTINF:0,Star Family
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1042/index.m3u8
+#EXTINF:0,ПлюсПлюс
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1002/index.m3u8
+#EXTINF:0,К1
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/931/index.m3u8
+#EXTINF:0,К2
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/930/index.m3u8
+#EXTINF:0,Enter-фільм
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/933/index.m3u8
+#EXTINF:0,5 канал
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/945/index.m3u8
 #EXTINF:0,M1
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/949/index.m3u8
@@ -411,27 +423,15 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/950/index.m3u8
 #EXTINF:0,24 Канал
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/951/index.m3u8
-#EXTINF:0,ATR
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/952/index.m3u8
-#EXTINF:0,Lale
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/953/index.m3u8
 #EXTINF:0,Надiя ТВ
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/956/index.m3u8
 #EXTINF:0,Перший Захiдний
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/957/index.m3u8
-#EXTINF:0,UA: ЗАКАРПАТТЯ
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/958/index.m3u8
 #EXTINF:0,BBB TV
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/959/index.m3u8
-#EXTINF:0,Центральный канал
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/963/index.m3u8
 #EXTINF:0,Черноморская ТРК
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/965/index.m3u8
@@ -447,18 +447,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/926/index.m3u8
 #EXTINF:0,Eспресо TV
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/927/index.m3u8
-#EXTINF:0,К2
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/930/index.m3u8
-#EXTINF:0,К1
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/931/index.m3u8
-#EXTINF:0,Enter-фільм
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/933/index.m3u8
-#EXTINF:0,Пiксель ТВ
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/938/index.m3u8
 #EXTINF:0,Первый городской (Кривой Рог)
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/939/index.m3u8
@@ -513,21 +501,9 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/985/index.m3u8
 #EXTINF:0,Громадське
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/988/index.m3u8
-#EXTINF:0,BOLT
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/991/index.m3u8
-#EXTINF:0,Star Cinema
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/992/index.m3u8
 #EXTINF:0,Чернiвецький Промiнь
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1004/index.m3u8
-#EXTINF:0,UA:Перший
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1016/index.m3u8
-#EXTINF:0,UA:Крым
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1017/index.m3u8
 #EXTINF:0,MostVideo.TV
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1027/index.m3u8
@@ -537,9 +513,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1028/index.m3u8
 #EXTINF:0,TV5
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1030/index.m3u8
-#EXTINF:0,Star Family
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1042/index.m3u8
 #EXTINF:0,O-TV
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1055/index.m3u8
@@ -561,9 +534,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/999/index.m3u8
 #EXTINF:0,ZOOM
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1000/index.m3u8
-#EXTINF:0,ПлюсПлюс
-#EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1002/index.m3u8
 #EXTINF:0,Малятко ТВ
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1003/index.m3u8
@@ -615,6 +585,12 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1025/index.m3u8
 #EXTINF:0,Milady Television
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1026/index.m3u8
+#EXTINF:0,ATR
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/952/index.m3u8
+#EXTINF:0,Lale
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/953/index.m3u8
 #EXTINF:0,BOUTIQUE TV
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1029/index.m3u8
@@ -645,15 +621,18 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1063/index.m3u8
 #EXTINF:0,4 канал
 #EXTGRP:українські
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1039/index.m3u8
-#EXTINF:0,XSPORT
+#EXTINF:0,Центральный канал
 #EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/997/index.m3u8
-#EXTINF:0,Футбол 1
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/963/index.m3u8
+#EXTINF:0,UA: ЗАКАРПАТТЯ
 #EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1109/index.m3u8
-#EXTINF:0,Футбол 2
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/958/index.m3u8
+#EXTINF:0,UA:Крым
 #EXTGRP:українські
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1110/index.m3u8
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1017/index.m3u8
+#EXTINF:0,UA:Перший
+#EXTGRP:українські
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1016/index.m3u8
 
 #EXTINF:0,Первый HD
 #EXTGRP:HD
@@ -673,9 +652,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/207/index.m3u8
 #EXTINF:0,Hollywood HD
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/209/index.m3u8
-#EXTINF:0,RTG HD
-#EXTGRP:HD
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/210/index.m3u8
 #EXTINF:0,Матч! Футбол 2 HD
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/211/index.m3u8
@@ -694,9 +670,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/215/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/216/index.m3u8
-#EXTINF:0,Mezzo Live HD
-#EXTGRP:HD
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/217/index.m3u8
 #EXTINF:0,Animal Planet HD
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/218/index.m3u8
@@ -766,9 +739,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/914/index.m3u8
 #EXTINF:0,Наше крутое HD
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/915/index.m3u8
-#EXTINF:0,Охотник и рыболов HD
-#EXTGRP:HD
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/917/index.m3u8
 #EXTINF:0,ЕДА Премиум
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/918/index.m3u8
@@ -781,9 +751,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/236/index.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/237/index.m3u8
-#EXTINF:0,1HD
-#EXTGRP:HD
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/238/index.m3u8
 #EXTINF:0,Bollywood HD
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/239/index.m3u8
@@ -811,9 +778,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1048/index.m3u8
 #EXTINF:0,Эврика HD
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/908/index.m3u8
-#EXTINF:0,Приключения HD
-#EXTGRP:HD
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/920/index.m3u8
 #EXTINF:0,Deluxe Lounge HD
 #EXTGRP:HD
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/968/index.m3u8
@@ -906,9 +870,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/745/index.m3u8
 #EXTINF:0,Fashiontv EN
 #EXTGRP:развлекательные
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1010/index.m3u8
-#EXTINF:0,World Fashion Channel
-#EXTGRP:развлекательные
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1068/index.m3u8
 #EXTINF:0,Супер
 #EXTGRP:развлекательные
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/826/index.m3u8
@@ -1018,15 +979,12 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/971/index.m3u8
 #EXTINF:0,ТБН
 #EXTGRP:другие
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/974/index.m3u8
-#EXTINF:0,СПАС
-#EXTGRP:другие
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/983/index.m3u8
 #EXTINF:0,Возрождение
 #EXTGRP:другие
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/984/index.m3u8
-#EXTINF:0,Архыз 24
+#EXTINF:0,СПАС
 #EXTGRP:другие
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1049/index.m3u8
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/983/index.m3u8
 #EXTINF:0,CBC AZ
 #EXTGRP:другие
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1050/index.m3u8
@@ -1109,33 +1067,39 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/868/index.m3u8
 #EXTGRP:другие
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/869/index.m3u8
 
-#EXTINF:0,МАТЧ! СТРАНА
+#EXTINF:0,Футбол 1
 #EXTGRP:спорт
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/107/index.m3u8
-#EXTINF:0,Матч! Планета
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1109/index.m3u8
+#EXTINF:0,Футбол 2
 #EXTGRP:спорт
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/123/index.m3u8
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1110/index.m3u8
+#EXTINF:0,XSPORT
+#EXTGRP:спорт
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/997/index.m3u8
 #EXTINF:0,Матч! Футбол 1
 #EXTGRP:спорт
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/124/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:спорт
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/530/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:спорт
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/522/index.m3u8
+#EXTINF:0,МАТЧ! СТРАНА
+#EXTGRP:спорт
+http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/107/index.m3u8
 #EXTINF:0,МАТЧ ПРЕМЬЕР
 #EXTGRP:спорт
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/531/index.m3u8
 #EXTINF:0,KHL
 #EXTGRP:спорт
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/519/index.m3u8
-#EXTINF:0,Матч! Футбол 3
-#EXTGRP:спорт
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/522/index.m3u8
 #EXTINF:0,Матч! Арена
 #EXTGRP:спорт
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/528/index.m3u8
 #EXTINF:0,Матч! Игра
 #EXTGRP:спорт
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/529/index.m3u8
-#EXTINF:0,Матч! Футбол 2
-#EXTGRP:спорт
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/530/index.m3u8
 #EXTINF:0,Матч ТВ
 #EXTGRP:спорт
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/535/index.m3u8
@@ -1151,9 +1115,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/150/index.m3u8
 #EXTINF:0,Viasat Sport
 #EXTGRP:спорт
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/160/index.m3u8
-#EXTINF:0,M-1 Global TV
-#EXTGRP:спорт
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/843/index.m3u8
 #EXTINF:0,Бокс ТВ
 #EXTGRP:спорт
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/870/index.m3u8
@@ -1170,9 +1131,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/507/index.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:новости
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/523/index.m3u8
-#EXTINF:0,BBC World News
-#EXTGRP:новости
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/545/index.m3u8
 #EXTINF:0,Мир 24
 #EXTGRP:новости
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/712/index.m3u8
@@ -1200,9 +1158,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/969/index.m3u8
 #EXTINF:0,Deutsche Welle DE
 #EXTGRP:новости
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/1021/index.m3u8
-#EXTINF:0,Инфоканал
-#EXTGRP:новости
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/407/index.m3u8
 #EXTINF:0,360°
 #EXTGRP:новости
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/825/index.m3u8
@@ -1221,9 +1176,6 @@ http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/840/index.m3u8
 #EXTINF:0,CNN International Europe
 #EXTGRP:новости
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/842/index.m3u8
-#EXTINF:0,IZ.RU
-#EXTGRP:новости
-http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/848/index.m3u8
 #EXTINF:0,RT Arabic
 #EXTGRP:новости
 http://1917d94d.shukinuki.website/iptv/2C5XYFN47C2VHC/862/index.m3u8
