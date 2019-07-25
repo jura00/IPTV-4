@@ -14,6 +14,9 @@ http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/132/index.m3u8
 #EXTINF:0,TV 1000 Action
 #EXTGRP:кино
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/131/index.m3u8
+#EXTINF:0,TV 1000 Русское кино
+#EXTGRP:кино
+http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/101/index.m3u8
 #EXTINF:0,SHOT TV
 #EXTGRP:кино
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/526/index.m3u8
@@ -146,9 +149,6 @@ http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/1066/index.m3u8
 #EXTINF:0,Мир Сериала
 #EXTGRP:кино
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/856/index.m3u8
-#EXTINF:0,TV 1000 Русское кино
-#EXTGRP:кино
-http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/101/index.m3u8
 
 #EXTINF:0,Discovery Science
 #EXTGRP:познавательные
