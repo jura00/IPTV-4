@@ -17,12 +17,12 @@ http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/131/index.m3u8
 #EXTINF:0,TV 1000 Русское кино
 #EXTGRP:кино
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/101/index.m3u8
-#EXTINF:0,SHOT TV
-#EXTGRP:кино
-http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/526/index.m3u8
 #EXTINF:0,TV1000 World Kino
 #EXTGRP:кино
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/1065/index.m3u8
+#EXTINF:0,SHOT TV
+#EXTGRP:кино
+http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/526/index.m3u8
 #EXTINF:0,AMEDIA HIT
 #EXTGRP:кино
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/556/index.m3u8
@@ -77,6 +77,24 @@ http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/148/index.m3u8
 #EXTINF:0,Русский Иллюзион
 #EXTGRP:кино
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/547/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:HD
+http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/904/index.m3u8
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:HD
+http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/911/index.m3u8
+#EXTINF:0,Шокирующее
+#EXTGRP:HD
+http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/913/index.m3u8
+#EXTINF:0,Комедийное HD
+#EXTGRP:HD
+http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/912/index.m3u8
+#EXTINF:0,Наш Кинороман HD
+#EXTGRP:HD
+http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/914/index.m3u8
+#EXTINF:0,Наше крутое HD
+#EXTGRP:HD
+http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/915/index.m3u8
 #EXTINF:0,Еврокино
 #EXTGRP:кино
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/549/index.m3u8
@@ -149,6 +167,9 @@ http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/1066/index.m3u8
 #EXTINF:0,Мир Сериала
 #EXTGRP:кино
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/856/index.m3u8
+#EXTINF:0,Телеканал Звезда
+#EXTGRP:другие
+http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/544/index.m3u8
 
 #EXTINF:0,Discovery Science
 #EXTGRP:познавательные
@@ -718,24 +739,6 @@ http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/233/index.m3u8
 #EXTINF:0,Eurosport 2 North-East HD
 #EXTGRP:HD
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/234/index.m3u8
-#EXTINF:0,Остросюжетное HD
-#EXTGRP:HD
-http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/904/index.m3u8
-#EXTINF:0,Дом Кино Премиум HD
-#EXTGRP:HD
-http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/911/index.m3u8
-#EXTINF:0,Шокирующее
-#EXTGRP:HD
-http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/913/index.m3u8
-#EXTINF:0,Комедийное HD
-#EXTGRP:HD
-http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/912/index.m3u8
-#EXTINF:0,Наш Кинороман HD
-#EXTGRP:HD
-http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/914/index.m3u8
-#EXTINF:0,Наше крутое HD
-#EXTGRP:HD
-http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/915/index.m3u8
 #EXTINF:0,ЕДА Премиум
 #EXTGRP:HD
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/918/index.m3u8
@@ -910,9 +913,6 @@ http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/520/index.m3u8
 #EXTINF:0,Телеканал Да Винчи
 #EXTGRP:другие
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/537/index.m3u8
-#EXTINF:0,Телеканал Звезда
-#EXTGRP:другие
-http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/544/index.m3u8
 #EXTINF:0,Ю ТВ
 #EXTGRP:другие
 http://b438793d.machkalan.ru/iptv/5KGY4EMBH6AXTQ/534/index.m3u8
